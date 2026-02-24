@@ -36,7 +36,7 @@
 
 ## Quick Deploy
 ### ROS2 Workspace
-* [cr5-deploy-ws](https://github.com/fiveages-sim/cr5-deploy-ws)
+* [open-deploy-ws](https://github.com/fiveages-sim/open-deploy-ws)
 * [fa-deploy-ws](https://github.com/fiveages-sim/fa-deploy-ws)
 ### Conda Env
 * [fa-py-libraries](https://github.com/fiveages-sim/fa-py-libraries)
