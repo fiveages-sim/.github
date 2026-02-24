@@ -1,6 +1,6 @@
 # FiveAges Sim&Control
 
-![FiveAges](../.images/fiveages_w1.png)
+<img src="../.images/fiveages_w2.png" width="49%"> <img src="../.images/fiveages_w1.png" width="49%"> 
 
 ## For ROS2 Developers
 * [Robot Descriptions](https://github.com/fiveages-sim/robot_descriptions)
@@ -13,6 +13,7 @@
     * [Tianji Marvin Series](https://github.com/fiveages-sim/robot-descriptions-tianji)
     * [FiveAges W1](https://github.com/fiveages-sim/fa-w1-description)
     * [FiveAges W2](https://github.com/fiveages-sim/fa-w2-description)
+    * [ARX X5&AC-One](https://github.com/fiveages-sim/robot-descriptions-arx)
     
     </details>
 
@@ -28,6 +29,7 @@
     * [Juxie Motors](https://github.com/fiveages-sim/juxie-ros2-control)
     * [Modbus RTU](https://github.com/fiveages-sim/modbus-ros2-control)
     * [Unitree Humannoid](https://github.com/fiveages-sim/unitree-ros2-control)
+    * [ARX X5](https://github.com/fiveages-sim/arx-ros2-control)
     
     </details>
 
@@ -36,19 +38,22 @@
 * [cr5-deploy-ws](https://github.com/fiveages-sim/cr5-deploy-ws)
 * [fa-deploy-ws](https://github.com/fiveages-sim/fa-deploy-ws)
 
+## Python Tools
+* [ROS2 Interface](https://github.com/fiveages-sim/ros2_robot_interface)
+* [Viser GUI](https://github.com/fiveages-sim/ros2-viser)
+* [Lerobot ROS2](https://github.com/fiveages-sim/lerobot_ros2)
+* [Gym Hil](https://github.com/fiveages-sim/gym-hil)
+
 ## Simulation
 
 ### Isaac Sim
 * [Robot USDs](https://github.com/fiveages-sim/robot_usds)
 * [Env USDs](https://github.com/fiveages-sim/fiveages-env-usds)
 * [FiveAges W1 USD](https://github.com/fiveages-sim/fa-w1-usds)
+* [FiveAges W2 USD](https://github.com/fiveages-sim/fa-w2-usds)
 
 ### ManiSkill
 * [ManiSkill Models](https://github.com/fiveages-sim/maniskill_models)
 
 ### RoboSuite (Mujoco)
 * [RoboSuite Models](https://github.com/fiveages-sim/robosuite_models)
-
-## Python
-* [Lerobot ROS2](https://github.com/fiveages-sim/lerobot_ros2)
-* [Gym Hil](https://github.com/fiveages-sim/gym-hil)
