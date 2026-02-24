@@ -34,13 +34,18 @@
     </details>
 
 
-## For Deploy Machine
+## Quick Deploy
+### ROS2 Workspace
 * [cr5-deploy-ws](https://github.com/fiveages-sim/cr5-deploy-ws)
 * [fa-deploy-ws](https://github.com/fiveages-sim/fa-deploy-ws)
+### Conda Env
+* [fa-py-libraries](https://github.com/fiveages-sim/fa-py-libraries)
+
 
 ## Python Tools
 * [ROS2 Interface](https://github.com/fiveages-sim/ros2_robot_interface)
 * [Viser GUI](https://github.com/fiveages-sim/ros2-viser)
+* [VR Teleop](https://github.com/fiveages-sim/vr_pose_publisher)
 * [Lerobot ROS2](https://github.com/fiveages-sim/lerobot_ros2)
 * [Gym Hil](https://github.com/fiveages-sim/gym-hil)
 
