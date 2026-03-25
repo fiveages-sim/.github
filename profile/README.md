@@ -52,10 +52,14 @@
 ## Simulation
 
 ### Isaac Sim
-* [Robot USDs](https://github.com/fiveages-sim/robot_usds)
-* [Env USDs](https://github.com/fiveages-sim/fiveages-env-usds)
-* [FiveAges W1 USD](https://github.com/fiveages-sim/fa-w1-usds)
-* [FiveAges W2 USD](https://github.com/fiveages-sim/fa-w2-usds)
+* [FaSim-Isaac](https://github.com/fiveages-sim/FaSim-Isaac)
+    <details>
+    <summary><strong>USD files for Isaac Sim</strong></summary>
+  
+    * [Robot USDs](https://github.com/fiveages-sim/robot_usds)
+    * [Env USDs](https://github.com/fiveages-sim/fiveages-env-usds)
+    * [FiveAges W1 USD](https://github.com/fiveages-sim/fa-w1-usds)
+    * [FiveAges W2 USD](https://github.com/fiveages-sim/fa-w2-usds)
 
 ### ManiSkill
 * [ManiSkill Models](https://github.com/fiveages-sim/maniskill_models)
