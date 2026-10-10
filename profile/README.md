@@ -12,28 +12,21 @@
 
 FiveAges Sim is a multi-repository ROS 2 stack for **descriptions**, **Hardware Interfaces**, OCS2 MPC (split-body / full-body), **Gazebo** and **FaSim** (Isaac Sim + the same ROS 2 motion stack as hardware), teleop, and Python tooling.
 
-Public entry: [open-deploy-ws](https://github.com/fiveages-sim/open-deploy-ws) (ROS 2 Jazzy). Internal workspace `fa-deploy-ws` is not public. Newcomers should start at the [docs](https://fiveages-sim.github.io/docs/).
+Public entry: [open-deploy-ws](https://github.com/fiveages-sim/open-deploy-ws) (ROS 2 Jazzy). Internal workspace `fa-deploy-ws` is not public.
 
 ## 中文
 
 FiveAges Sim 是一套面向描述、**驱动层**、OCS2 分体/全身控制、Gazebo 与 FaSim（Isaac Sim + 与真机同一套 ROS 2 运控）、遥操作和 Python 工具的 ROS 2 多仓库技术栈。
 
-公开入口：[open-deploy-ws](https://github.com/fiveages-sim/open-deploy-ws)（ROS 2 Jazzy）。内部工作空间 `fa-deploy-ws` 未公开。请从[中文文档](https://fiveages-sim.github.io/docs/zh_CN/)开始。
+公开入口：[open-deploy-ws](https://github.com/fiveages-sim/open-deploy-ws)（ROS 2 Jazzy）。内部工作空间 `fa-deploy-ws` 未公开。
 
 ---
-
-## Docs
-
-| Repository | EN | 中文 |
-|---|---|---|
-| [docs](https://github.com/fiveages-sim/docs) | Sphinx site source | 文档站源码 |
-| [English site](https://fiveages-sim.github.io/docs/) | Live docs | 英文站 |
-| [Chinese site](https://fiveages-sim.github.io/docs/zh_CN/) | Live docs (zh_CN) | 中文站 |
 
 ## Quick Deploy
 
 | Repository | EN | 中文 |
 |---|---|---|
+| [docs](https://github.com/fiveages-sim/docs) | Sphinx documentation source | 文档源码仓 |
 | [open-deploy-ws](https://github.com/fiveages-sim/open-deploy-ws) | Public ROS 2 workspace. Lean branches: `dobot-cr5`, `arx-lift2s`, `panthera-ht`. | 公开 ROS 2 工作空间。精简分支：`dobot-cr5`、`arx-lift2s`、`panthera-ht`。 |
 | [fa-py-libraries](https://github.com/fiveages-sim/fa-py-libraries) | Shared Python libraries | 常用 Python 库 |
 | `fa-deploy-ws` | Internal only (not a public repo) | 内部工作空间（未公开） |
