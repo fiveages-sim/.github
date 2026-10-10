@@ -52,8 +52,6 @@ FiveAges Sim 是一套面向描述、**驱动层**、OCS2 分体/全身控制、
 | [arms_ros2_control](https://github.com/fiveages-sim/arms_ros2_control) | Controllers and teleop for single-arm, dual-arm, and wheeled-arm humanoids | 单臂 / 双臂 / 轮臂人形的控制器与遥操作 |
 | [drag_teleop_controller](https://github.com/fiveages-sim/drag_teleop_controller) | Isomorphic master–slave drag teleop | 同构主从拖动遥操作 |
 
-Dyna Taku lives only on `robot_descriptions` branch `feature/agilex`. It is a **community-inferred description, not official Dyna specs**（社区推断描述，非 Dyna 官方规格）.
-
 ## Hardware Interfaces / 驱动层
 
 | Repository | EN | 中文 |
