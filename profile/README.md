@@ -45,6 +45,21 @@ FiveAges Sim 是一套面向描述、**驱动层**、OCS2 分体/全身控制、
 | [arms_ros2_control](https://github.com/fiveages-sim/arms_ros2_control) | Controllers and teleop for single-arm, dual-arm, and wheeled-arm humanoids | 单臂 / 双臂 / 轮臂人形的控制器与遥操作 |
 | [drag_teleop_controller](https://github.com/fiveages-sim/drag_teleop_controller) | Isomorphic master–slave drag teleop | 同构主从拖动遥操作 |
 
+### FiveAges
+
+Gitlinks under public [`robot_descriptions`](https://github.com/fiveages-sim/robot_descriptions) `humanoid/FiveAges/` — not a separate `robot-descriptions-fiveages` umbrella.
+
+公开 [`robot_descriptions`](https://github.com/fiveages-sim/robot_descriptions) 下的 gitlink（`humanoid/FiveAges/`），不是独立的 `robot-descriptions-fiveages` 聚合仓。
+
+| Repository | EN | 中文 |
+|---|---|---|
+| [fa-w1-description](https://github.com/fiveages-sim/fa-w1-description) | W1 / Gen1 URDF | W1 / Gen1 描述 |
+| [fa-w2-description](https://github.com/fiveages-sim/fa-w2-description) | W2 URDF | W2 描述 |
+| [fa-s2-description](https://github.com/fiveages-sim/fa-s2-description) | S2 URDF | S2 描述 |
+| [fa-w2-components](https://github.com/fiveages-sim/fa-w2-components) | Shared Gen2 components | Gen2 公共组件 |
+
+W2R (`fa-w2r-description`) and S2R (`fa-s2r-description`) remotes are not open / 未公开。
+
 ## Hardware Interfaces / 驱动层
 
 | Repository | EN | 中文 |
@@ -75,6 +90,8 @@ FiveAges Sim 是一套面向描述、**驱动层**、OCS2 分体/全身控制、
 |---|---|---|
 | [FaSim-Isaac](https://github.com/fiveages-sim/FaSim-Isaac) | Isaac Sim deploy scripts / FaSim entry | Isaac Sim 部署与 FaSim 入口 |
 | [robot_usds](https://github.com/fiveages-sim/robot_usds) | Isaac USD superproject | 机器人 USD 聚合 |
+| [fiveages-gen1-robot-usds](https://github.com/fiveages-sim/fiveages-gen1-robot-usds) | Gen1 / W1 USD (`humanoid/FiveAges/Gen1`) | Gen1 / W1 USD（`humanoid/FiveAges/Gen1`） |
+| [fiveages-gen2-robot-usds](https://github.com/fiveages-sim/fiveages-gen2-robot-usds) | Gen2 USD for W2 + S2 only, not W2R/S2R (`humanoid/FiveAges/Gen2`) | Gen2 USD，仅 W2 + S2，不含 W2R/S2R（`humanoid/FiveAges/Gen2`） |
 | [galbot-usds](https://github.com/fiveages-sim/galbot-usds) | Galbot USD assets | 银河通用 USD |
 | [fiveages-env-usds](https://github.com/fiveages-sim/fiveages-env-usds) | Environment USDs | 场景 USD |
 | [maniskill_models](https://github.com/fiveages-sim/maniskill_models) | ManiSkill models | ManiSkill 模型 |
