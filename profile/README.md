@@ -41,6 +41,9 @@ FiveAges Sim 是一套面向描述、**驱动层**、OCS2 分体/全身控制、
 | [robot-descriptions-arx](https://github.com/fiveages-sim/robot-descriptions-arx) | ARX X5; Acone / AC One (dual-arm); Lift 2S (full-body) | 方舟 X5；Acone / AC One（双臂）；Lift 2S（全身） |
 | [robot-descriptions-ht](https://github.com/fiveages-sim/robot-descriptions-ht) | HighTorque Panthera HT | 高擎 Panthera HT |
 | [robot-descriptions-galbot](https://github.com/fiveages-sim/robot-descriptions-galbot) | Galbot descriptions | 银河通用描述 |
+| [robot-descriptions-rokae](https://github.com/fiveages-sim/robot-descriptions-rokae) | Rokae AR5-SRS; AR5-CCS / CCS V2 | 珞石 AR5-SRS；AR5-CCS / CCS V2 |
+| [robot-descriptions-tianji](https://github.com/fiveages-sim/robot-descriptions-tianji) | Tianji M6 / M6S Lite / M20S; Marvin Pro | 天机 M6 / M6S Lite / M20S；Marvin Pro |
+| [robot-descriptions-gento](https://github.com/fiveages-sim/robot-descriptions-gento) | Gento Skye / Luna (Tianji arms + Linkhou chassis) | Gento Skye / Luna（天机臂 + Linkhou 底盘） |
 | [robot-descriptions-quadruped](https://github.com/fiveages-sim/robot-descriptions-quadruped) | Quadruped descriptions | 四足描述 |
 | [arms_ros2_control](https://github.com/fiveages-sim/arms_ros2_control) | Controllers and teleop for single-arm, dual-arm, and wheeled-arm humanoids | 单臂 / 双臂 / 轮臂人形的控制器与遥操作 |
 | [drag_teleop_controller](https://github.com/fiveages-sim/drag_teleop_controller) | Isomorphic master–slave drag teleop | 同构主从拖动遥操作 |
